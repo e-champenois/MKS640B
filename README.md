@@ -14,9 +14,9 @@ Control a MKS640B Pressure Controller using an Arduino and Serial interface, wit
 Note: there may have been small last minute changes in the pin definitions in MKS640.ino...
 
 I. Power Supply DIN5:
-1: Common GND
-2: Common GND
-3: unwired
+    1: Common GND
+    2: Common GND
+    3: unwired
     4: Common -15V
     5: Common +15V
 
